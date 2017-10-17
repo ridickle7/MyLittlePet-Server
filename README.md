@@ -1,4 +1,4 @@
-![Image](https://github.com/ridickle7/LeeSangWoo_Reference/blob/master/1.%20ImageRef/3.%20MyLittlePet/githubHeadPage.PNG)  
+![Image](https://github.com/ridickle7/LeeSangWoo_Reference/blob/master/1.%20ImageRef/3.%20MyLittlePet/githubHeadPage.jpg)  
 # 마이리틀펫 (MyLittlePet - Server)
 
 다운로드 링크 : 개발 중! <br>
